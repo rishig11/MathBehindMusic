@@ -1,0 +1,45 @@
+/*
+	Comment
+*/
+
+a { /* Comment */ color: /* Comment */ Red; }
+
+body{background: #00cc99}
+
+#header .banner{
+	background: white url(Banner.jpg') repeat-x;
+	width:100%;
+	text-align:center;
+}
+#header .banner img{/* collapse on mobile */
+	max-width:100%;
+
+	vertical-align:top;
+}
+
+.center {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+map {
+  display: inline;
+}
+
+}
+#images a{
+    margin:0px 20px;
+    display:inline-block;
+    text-decoration:none;
+    color:black;
+ }
+ 
+ .TestClass {
+	color: black;
+	background-color: White;
+	text-align: left;}
+
+}
+
